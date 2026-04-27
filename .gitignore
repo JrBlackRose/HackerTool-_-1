@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Tool specific outputs
+cloned_site/
+*.cap
+*.csv
+*.netxml
+*.kismet.netxml
+*.kismet.csv
+capture_*.cap
+
+# Virtual environments
+venv/
+env/
